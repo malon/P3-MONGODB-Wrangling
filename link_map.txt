@@ -1,0 +1,4 @@
+City of Vigo (Pontevedra) - Spain -> https://www.openstreetmap.org/relation/341381
+
+This is my hometown, so, I want to explore what interesting information OSM has about my city.
+
