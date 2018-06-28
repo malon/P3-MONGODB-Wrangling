@@ -11,4 +11,6 @@ Contents:
 
 
 
-NOTES: the code is using the original file vigo_box.osm, from which the included file sample_vigo.osm is just a sample.
+NOTES: 
+* the code is using the original file vigo_box.osm, from which the included file sample_vigo.osm is just a sample. 
+* some of the functions used in the scripts were taken from the Udacity´s MongoDB course case study exercises.
